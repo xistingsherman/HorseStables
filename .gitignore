@@ -13,7 +13,7 @@ target/
 .springBeans
 .sts4-cache
 application.properties
-
+./wqdew
 ### IntelliJ IDEA ###
 .idea
 *.iws
